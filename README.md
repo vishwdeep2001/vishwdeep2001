@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vishwdeep2001
-- 👀 I’m interested in learning new technologies.
-- 🌱 I’m currently learning web dev.
-- 💞️ I’m looking to collaborate on front end.
+- 👀 I’m interested in learning new tech tacks.
+- 🌱 I’m currently learning Competitive Programming and Developement.
+- 💞️ I’m looking to collaborate on Projects.
 - 📫 How to reach me vishwdeepsingharia@gmail.com
 
 <!---
